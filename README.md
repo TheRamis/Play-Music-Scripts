@@ -18,6 +18,4 @@ A bunch of scripts I use to organise my google play music
 4. Run one of the scripts.
 
 ## TODO
-
-- Support for smart playlist feature.
-- Sorting playlists
+as
